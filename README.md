@@ -52,7 +52,6 @@ This project demonstrates the setup of a secure Virtual Private Cloud (VPC) with
 - **AWS Auto Scaling**
 - **AWS Route 53**
 - **SSH**
-- **Amazon Route 53**
   
 - link https://youtu.be/FZPTL_kNvXc?si=CqnoXdGwDxEaf3v0
 
